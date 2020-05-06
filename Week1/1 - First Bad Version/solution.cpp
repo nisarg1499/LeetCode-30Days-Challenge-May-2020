@@ -4,7 +4,6 @@
 // Author : Nisarg Shah (@nisarg1499)
 //
 // Web : iamnisarg.in
-//
 
 
 // The API isBadVersion is defined for you.
