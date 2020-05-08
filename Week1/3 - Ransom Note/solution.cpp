@@ -1,9 +1,10 @@
-//
-// LeetCode : First Bad Version
-//
-// Author : Nisarg Shah (@nisarg1499)
-//
-// Web : iamnisarg.in
+/*
+ * LeetCode : Cousins in Binary Tree
+ *
+ * Author : Nisarg Shah (@nisarg1499)
+ *
+ * Web : iamnisarg.in
+**/
 
 
 class Solution {
