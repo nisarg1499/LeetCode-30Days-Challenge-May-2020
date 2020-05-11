@@ -1,5 +1,5 @@
 /*
- * LeetCode : Cousins in Binary Tree
+ * LeetCode : Check if it is a Straight Line
  *
  * Author : Nisarg Shah (@nisarg1499)
  *
